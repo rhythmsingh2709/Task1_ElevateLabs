@@ -1,16 +1,22 @@
-* **cmd:- *sudo apt update \&\& sudo apt install nmap -y***
+* **cmd:-
+
+  		*sudo apt update \&\& sudo apt install nmap -y***
  
 **&nbsp;**  description: used to install nmap.
 
 
 
-* **cmd:- *ifconfig***
+* **cmd:-
+
+  		*ifconfig***
 
    description: used to find the local ip range.
 
 
 
-* **cmd:- *sudo nmap -sS -sV -O -T4 192.168.1.0/24***
+* **cmd:-
+  
+		*sudo nmap -sS -sV -O -T4 192.168.1.0/24***
 
 &nbsp;  description: sudo:- for root privileges 
 
@@ -30,7 +36,9 @@
 
  **Output:**		
 
-&nbsp;	*Nmap scan report for 192.168.1.1*
+&nbsp;	
+
+	*Nmap scan report for 192.168.1.1*
 
 	*Host is up (0.0053s latency).*
 
@@ -159,5 +167,6 @@
 	*OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .*
 
 	*# Nmap done at Mon Sep 22 16:31:35 2025 -- 256 IP addresses (5 hosts up) scanned in 22.52 seconds*
+
 
 
