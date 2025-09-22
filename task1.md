@@ -1,5 +1,5 @@
 * **cmd:- *sudo apt update \&\& sudo apt install nmap -y***
-* 
+ 
 **&nbsp;**  description: used to install nmap.
 
 
@@ -159,4 +159,5 @@
 	*OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .*
 
 	*# Nmap done at Mon Sep 22 16:31:35 2025 -- 256 IP addresses (5 hosts up) scanned in 22.52 seconds*
+
 
